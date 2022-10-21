@@ -1,0 +1,48 @@
+
+#titulo{
+    text-align: center;
+    color: orangered;
+    border-style: groove;
+    border-color: black;
+    margin: 0px;
+    border: 1px;
+}
+.foto{
+    padding: 5px; margin: 2px; border: 2px solid black; float: center; width: 250px;
+}
+.fot{
+    padding: 5px; margin: 1000px; border: 2px solid black; float: center; width: 250px;
+}
+.letra{
+    color: rgb(5, 5, 5);
+    border-style: dotted;
+    width: 500px;
+    border-color: blue;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-color: blue;
+    border-style: dashed;
+    border-radius: 5px;
+}
+.box{
+    width: 500px;
+    height: 1355px;
+    background-color: gainsboro;
+    margin: 20px;
+    float: left;
+}
+.ojitos{
+    text-align: center;
+}
+body{
+    border: 2px groove black;
+    margin: 1px;
+    background: mediumspringgreen;
+    font-size: 20px;
+    font-style: italic;
+}
